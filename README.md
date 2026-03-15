@@ -102,3 +102,7 @@ https://snapp.wzero.dev/cgv
 **AGPL-3.0 license**
 
 Read full license [here](https://github.com/0w0i0n0g0/cgv-open-push/blob/main/LICENSE).
+
+## Python Telegram 감시기 (Windows 실행)
+
+Windows에서 바로 실행 가능한 Telegram 기반 감시기는 [README_WINDOWS.md](./README_WINDOWS.md)를 참고하세요.
